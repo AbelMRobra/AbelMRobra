@@ -1,11 +1,13 @@
 ### Hola! 👋, bienvenido a mi GitHub!
 
 #### Un poco sobre mi:
-*Mi identifico con ser una persona proactiva y curiosa* Soy un apasionado por el estudio de la ciencias
+**Mi identifico con ser una persona proactiva y curiosa** Soy un apasionado por el estudio de la ciencias
 exactas, mi formación es en ingeniería industrial con un posgrado en finanzas y un curso intensivo en
 ciencia de datos. Trabajo desde el 2016 en distintas empresas, en áreas de análisis de costos y datos en
 general. Cuento con experiencia en formar equipos y suelo tener facilidad para integrarme en nuevos
 ambientes
+
+🔭 Actualmente trabajo en una empresa de desarrollo inmobiliarios en área de IT y analisis de costos 😄
 
 
 <!--
